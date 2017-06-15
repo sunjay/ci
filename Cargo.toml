@@ -1,0 +1,11 @@
+[package]
+name = "ci"
+version = "0.0.0"
+authors = ["Sunjay Varma <varma.sunjay@gmail.com>"]
+description = "Continuous Integration utilities for Rust"
+repository = "https://github.com/sunjay/ci"
+readme = "README.md"
+keywords = ["continous", "integration", "travis"]
+license = "MIT"
+
+[dependencies]
